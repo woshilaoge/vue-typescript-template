@@ -1,4 +1,4 @@
-# cli-3.4-ts
+# vue-typescript-template
 
 ## Project setup
 ```
